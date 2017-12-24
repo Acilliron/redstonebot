@@ -1,7 +1,7 @@
 # redstonebot - The open source bot built for KoGGC.
 
 This repository is owned by jacksonisiah and is managed by jacksonisiah, TyK0ned and Acrylic.
-
+Our official discord is https://discord.gg/qX7kqRG (Message us with your GitHub account so we can verify you, so you can use #contributors)
 
 When asking for help, read the manual, do your research and provide details for those you are asking for assistance. When offering help, be as patient and tactful as possible. Our contributors are volunteers, they do not get paid for this. Please be very respectful towards them.  Anti-social or offensive behaviour will not be tolerated. Simply put, treat others as you would be treated; respect them and their views, even if you disagree with them. When you do find yourself disagreeing; please give respectful evidence to help prove your point, do not attack the other person’s viewpoint directly.
  
